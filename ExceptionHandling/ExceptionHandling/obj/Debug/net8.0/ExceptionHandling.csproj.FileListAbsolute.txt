@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\Projects\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
